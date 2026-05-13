@@ -126,6 +126,7 @@ class ConvertApp(QMainWindow):
     def carrega(self):
         options = QFileDialog.Options()
         caminho, _ = QFileDialog.getOpenFileName(
+            self, "selecione uma imagem", "", 
             "Imagens (*.jpg *.jpeg *.png *.bmp)", options=options
         )
         

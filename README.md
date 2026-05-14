@@ -1,6 +1,6 @@
 # Visão Geral do Programa: Conversor e Ajuste RGB para HSV
 
-Este documento descreve a arquitetura e o funcionamento geral da aplicação, que consiste em uma interface gráfica para carregar imagens, converter o espaço de cor de RGB para HSV matematicamente e permitir ajustes finos interativos nos canais de cor utilizando aceleração de hardware para a renderização.
+<!-- Este documento descreve a arquitetura e o funcionamento geral da aplicação, que consiste em uma interface gráfica para carregar imagens, converter o espaço de cor de RGB para HSV matematicamente e permitir ajustes finos interativos nos canais de cor utilizando aceleração de hardware para a renderização. -->
 
 
 ## Fórmulas de Referência (Exemplo para o Verde)
